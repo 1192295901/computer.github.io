@@ -10,7 +10,7 @@
       <p><b>个签： 生命在闪光中现出绚烂，在平凡中现出真实。</b></p> 
         </td>
     <td width="25%">
-      <img src="/1.jpg" width=100%>
+      <img src="/R-C.jfif" width=100%>
      </td>
   </tr>
 </table>
